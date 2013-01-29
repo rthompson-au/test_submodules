@@ -1,0 +1,3 @@
+[submodule "sm1"]
+	path = sm1
+	url = git@github.com:rthompson-au/submod1.git
